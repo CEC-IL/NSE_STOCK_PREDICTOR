@@ -1,0 +1,146 @@
+=================================================================
+NSE DATA QUALITY VALIDATION REPORT
+=================================================================
+Total records: 300,915
+Total columns: 13
+
+COLUMNS:
+- date
+- code
+- name
+- 12m_low
+- 12m_high
+- day_low
+- day_high
+- day_price
+- previous
+- change
+- change_pct
+- volume
+- adjusted_price
+
+=================================================================
+DATE VALIDATION
+=================================================================
+Earliest date: 2007-01-02 00:00:00
+Latest date: 2025-10-31 00:00:00
+Missing or invalid dates: 0
+
+=================================================================
+MISSING VALUES PER COLUMN
+=================================================================
+date: 0 missing (0.00%)
+code: 0 missing (0.00%)
+name: 48 missing (0.02%)
+12m_low: 0 missing (0.00%)
+12m_high: 0 missing (0.00%)
+day_low: 33 missing (0.01%)
+day_high: 33 missing (0.01%)
+day_price: 1 missing (0.00%)
+previous: 18 missing (0.01%)
+change: 111,216 missing (36.96%)
+change_pct: 111,323 missing (36.99%)
+volume: 66,377 missing (22.06%)
+adjusted_price: 263,405 missing (87.53%)
+
+=================================================================
+EXACT DUPLICATE ROWS
+=================================================================
+Exact duplicate rows remaining: 0
+
+=================================================================
+REPEATED DATE AND STOCK CODE RECORDS
+=================================================================
+Records belonging to repeated date/code groups: 278
+Number of repeated date/code groups: 139
+
+First 20 repeated groups:
+      date code  record_count
+2009-01-29 ACCS             2
+2009-01-29  ARM             2
+2009-01-29 BAMB             2
+2009-01-29  BAT             2
+2009-01-29  BBK             2
+2009-01-29 BERG             2
+2009-01-29  C&G             2
+2009-01-29 CABL             2
+2009-01-29  CFC             2
+2009-01-29  CMC             2
+2009-01-29 COOP             2
+2009-01-29  DTK             2
+2009-01-29 EABL             2
+2009-01-29 EQTY             2
+2009-01-29 EVRD             2
+2009-01-29 FIRE             2
+2009-01-29 HFCK             2
+2009-01-29 ICDC             2
+2009-01-29  JUB             2
+2009-01-29  KCB             2
+
+=================================================================
+RECORDS PER YEAR
+=================================================================
+2007: 10,608 records
+2008: 10,583 records
+2009: 14,367 records
+2010: 14,952 records
+2011: 14,931 records
+2012: 16,044 records
+2013: 14,889 records
+2014: 15,695 records
+2015: 16,456 records
+2016: 16,800 records
+2017: 16,842 records
+2018: 17,650 records
+2019: 18,147 records
+2020: 17,892 records
+2021: 17,746 records
+2022: 16,806 records
+2023: 17,274 records
+2024: 18,119 records
+2025: 15,114 records
+
+=================================================================
+STOCK CODE VALIDATION
+=================================================================
+Unique stock codes: 107
+Missing stock codes: 0
+
+=================================================================
+PRICE VALIDATION
+=================================================================
+
+day_price
+Missing values: 1
+Minimum: 0.01
+Maximum: 18845.31
+Zero values: 0
+Negative values: 0
+
+previous
+Missing values: 18
+Minimum: 0.0
+Maximum: 18845.31
+Zero values: 1
+Negative values: 0
+
+12m_low
+Missing values: 0
+Minimum: 0.01
+Maximum: 3443.94
+Zero values: 0
+Negative values: 0
+
+12m_high
+Missing values: 0
+Minimum: 0.05
+Maximum: 18845.31
+Zero values: 0
+Negative values: 0
+
+adjusted_price
+Missing values: 263,405
+Minimum: 2.68
+Maximum: 624.0
+Zero values: 0
+Negative values: 0

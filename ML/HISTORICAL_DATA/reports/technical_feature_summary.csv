@@ -1,0 +1,7 @@
+feature,available_values,missing_values,missing_percentage
+sma_5,299688,1088,0.36
+sma_10,298497,2279,0.76
+sma_20,296158,4618,1.54
+volatility_5d,299449,1327,0.44
+volatility_10d,298260,2516,0.84
+volatility_20d,295928,4848,1.61

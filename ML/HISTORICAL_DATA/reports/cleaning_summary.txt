@@ -1,0 +1,236 @@
+FILE: NSE_data_all_stocks_2007.csv
+Original rows: 10608
+Rows after empty-row removal: 10608
+Exact duplicates removed: 0
+Rows retained: 10608
+Available change_pct values: 8627
+Missing change_pct values: 1981
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2008.csv
+Original rows: 10583
+Rows after empty-row removal: 10583
+Exact duplicates removed: 0
+Rows retained: 10583
+Available change_pct values: 8459
+Missing change_pct values: 2124
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2009.csv
+Original rows: 14386
+Rows after empty-row removal: 14386
+Exact duplicates removed: 19
+Rows retained: 14367
+Available change_pct values: 7602
+Missing change_pct values: 6784
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2010.csv
+Original rows: 14952
+Rows after empty-row removal: 14952
+Exact duplicates removed: 0
+Rows retained: 14952
+Available change_pct values: 8852
+Missing change_pct values: 6100
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2011.csv
+Original rows: 14931
+Rows after empty-row removal: 14931
+Exact duplicates removed: 0
+Rows retained: 14931
+Available change_pct values: 8687
+Missing change_pct values: 6244
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2012.csv
+Original rows: 16044
+Rows after empty-row removal: 16044
+Exact duplicates removed: 0
+Rows retained: 16044
+Available change_pct values: 8904
+Missing change_pct values: 7140
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2013.csv
+Original rows: 14889
+Rows after empty-row removal: 14889
+Exact duplicates removed: 0
+Rows retained: 14889
+Available change_pct values: 9790
+Missing change_pct values: 5099
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2014.csv
+Original rows: 15696
+Rows after empty-row removal: 15695
+Exact duplicates removed: 0
+Rows retained: 15695
+Available change_pct values: 11014
+Missing change_pct values: 4681
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2015.csv
+Original rows: 16386
+Rows after empty-row removal: 16386
+Exact duplicates removed: 0
+Rows retained: 16386
+Available change_pct values: 11025
+Missing change_pct values: 5361
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2016.csv
+Original rows: 16800
+Rows after empty-row removal: 16800
+Exact duplicates removed: 0
+Rows retained: 16800
+Available change_pct values: 10834
+Missing change_pct values: 5966
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2017.csv
+Original rows: 16981
+Rows after empty-row removal: 16981
+Exact duplicates removed: 69
+Rows retained: 16912
+Available change_pct values: 10384
+Missing change_pct values: 6597
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2018.csv
+Original rows: 17651
+Rows after empty-row removal: 17650
+Exact duplicates removed: 0
+Rows retained: 17650
+Available change_pct values: 10712
+Missing change_pct values: 6938
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2019.csv
+Original rows: 18147
+Rows after empty-row removal: 18147
+Exact duplicates removed: 0
+Rows retained: 18147
+Available change_pct values: 11293
+Missing change_pct values: 6854
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 1
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2020.csv
+Original rows: 17892
+Rows after empty-row removal: 17892
+Exact duplicates removed: 0
+Rows retained: 17892
+Available change_pct values: 10812
+Missing change_pct values: 7080
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2021.csv
+Original rows: 17746
+Rows after empty-row removal: 17746
+Exact duplicates removed: 0
+Rows retained: 17746
+Available change_pct values: 11042
+Missing change_pct values: 6704
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2022.csv
+Original rows: 16806
+Rows after empty-row removal: 16806
+Exact duplicates removed: 0
+Rows retained: 16806
+Available change_pct values: 9730
+Missing change_pct values: 7076
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2023.csv
+Original rows: 17274
+Rows after empty-row removal: 17274
+Exact duplicates removed: 0
+Rows retained: 17274
+Available change_pct values: 10175
+Missing change_pct values: 7099
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2024.csv
+Original rows: 18119
+Rows after empty-row removal: 18119
+Exact duplicates removed: 0
+Rows retained: 18119
+Available change_pct values: 11069
+Missing change_pct values: 7050
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+FILE: NSE_data_all_stocks_2025.csv
+Original rows: 15114
+Rows after empty-row removal: 15114
+Exact duplicates removed: 0
+Rows retained: 15114
+Available change_pct values: 10624
+Missing change_pct values: 4490
+Missing dates: 0
+Missing stock codes: 0
+Missing day prices: 0
+--------------------------------------------------
+
+
+FINAL COMBINED DATASET
+Total rows: 300915
+Total columns: 13
+Date range: 2007-01-02 00:00:00 to 2025-10-31 00:00:00
+Available change_pct values: 189592
+Missing change_pct values: 111323
+Records sharing the same date and stock code: 278

@@ -1,0 +1,13 @@
+feature,available_values,missing_values,missing_percentage
+lag_1,300537,239,0.08
+lag_5,300109,667,0.22
+lag_10,299580,1196,0.4
+daily_return,300405,371,0.12
+return_5d,299977,799,0.27
+return_10d,299448,1328,0.44
+sma_5,299688,1088,0.36
+sma_10,298497,2279,0.76
+sma_20,296158,4618,1.54
+volatility_5d,299449,1327,0.44
+volatility_10d,298260,2516,0.84
+volatility_20d,295928,4848,1.61
