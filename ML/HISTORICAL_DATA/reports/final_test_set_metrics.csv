@@ -1,0 +1,2 @@
+evaluation_set,sample_size,baseline_direction_accuracy,model_direction_accuracy,gain_vs_baseline,baseline_mae,model_mae,liquid_subgroup_accuracy
+Held-Out Test Set (Full 2023-2025),36801,53.1,54.99,1.89,4.344,4.342,54.33

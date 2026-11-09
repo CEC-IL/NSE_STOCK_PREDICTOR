@@ -1,0 +1,12 @@
+code,company_name,last_2025_price,live_2026_price,actual_change_pct,actual_direction,ml_predicted_direction,ml_up_probability,ml_predicted_price,ml_ape_pct,arima_forecast_price,arima_lower_95,arima_upper_95,inside_arima_cone,arima_ape_pct,baseline_ape_pct
+SCOM,Safaricom PLC,30.25,33.95,12.23,UP,DOWN,0.453,30.49,10.2,30.37,26.96,33.78,NO,10.54,10.9
+EQTY,Equity Group Holdings,66.25,97.25,46.79,UP,DOWN,0.471,66.68,31.43,66.23,26.21,106.25,YES,31.9,31.88
+KCB,KCB Group PLC,61.5,87.75,42.68,UP,UP,0.527,62.0,29.34,61.54,33.2,89.88,YES,29.87,29.91
+EABL,East African Breweries PLC,231.75,270.0,16.5,UP,UP,0.523,233.57,13.49,231.74,199.11,264.37,NO,14.17,14.17
+ABSA,Absa Bank Kenya PLC,23.0,30.85,34.13,UP,FLAT,0.502,23.06,25.26,22.98,21.1,24.86,NO,25.52,25.45
+COOP,Co-operative Bank of Kenya,21.1,36.1,71.09,UP,FLAT,0.489,21.11,41.51,21.1,18.78,23.42,NO,41.55,41.55
+BAT,British American Tobacco Kenya,449.75,551.5,22.62,UP,DOWN,0.425,449.24,18.54,448.78,381.02,516.53,NO,18.63,18.45
+BAMB,Bamburi Cement PLC,47.2,47.2,0.0,FLAT,DOWN,0.181,47.14,0.13,47.2,29.4,65.0,YES,0.0,0.0
+SCBK,Standard Chartered Bank Kenya,303.0,303.25,0.08,FLAT,DOWN,0.458,302.65,0.2,303.79,273.55,334.04,YES,0.18,0.08
+NCBA,NCBA Group PLC,88.0,89.5,1.7,UP,DOWN,0.381,87.37,2.38,86.69,78.79,94.59,YES,3.14,1.68
+KEGN,KenGen Co. PLC,10.25,9.96,-2.83,DOWN,DOWN,0.427,10.37,4.08,10.31,7.41,13.22,YES,3.55,2.91

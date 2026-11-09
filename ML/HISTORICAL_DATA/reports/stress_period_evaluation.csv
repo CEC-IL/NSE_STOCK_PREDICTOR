@@ -1,0 +1,3 @@
+stress_period,sample_count,baseline_accuracy,xgboost_accuracy,gain_vs_baseline,baseline_mae,xgboost_mae,notes
+2020 COVID Shock (Mar-Dec 2020),11142,59.94,59.76,-0.18,4.264,4.301,"Severe volatility, market halts, CBK rate emergency cuts."
+2023 Currency Pressure (Full Year 2023),12813,57.42,58.81,1.39,4.072,4.066,KES dropped >25% vs USD; rising T-bill yields above 15%.

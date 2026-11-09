@@ -1,0 +1,3 @@
+task,model,mae,rmse,r2,accuracy,balanced_accuracy,macro_f1
+Price,Persistence baseline,1.1958626649586204,6.937032017142244,0.999845293058668,,,
+Direction,Most frequent class baseline,,,,0.40482726366945243,0.3333333333333333,0.19211247491122432

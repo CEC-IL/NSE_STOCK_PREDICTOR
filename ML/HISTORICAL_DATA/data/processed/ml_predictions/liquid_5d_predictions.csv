@@ -1,0 +1,13 @@
+code,latest_date,current_price,ml_predicted_direction,ml_probability_up,ml_confidence,ml_expected_return_5d,expected_return_range,top_drivers
+ABSA,2025-10-31,23.0,UP,0.585,0.585,0.76,-1.7% to 3.3%,"Overbought (Bearish), 5d Mom: +2.2%, Low Volatility"
+BAMB,2025-05-20,54.0,DOWN,0.402,0.598,-0.7,-3.2% to 1.8%,"Overbought (Bearish), 5d Mom: -4.4%, High Volatility"
+BAT,2025-10-31,449.75,NEUTRAL,0.498,0.502,-0.28,-2.8% to 2.2%,"Neutral RSI, 5d Mom: -0.1%, Low Volatility"
+COOP,2025-10-31,21.1,UP,0.536,0.536,0.71,-1.8% to 3.2%,"Neutral RSI, 5d Mom: +3.7%, Low Volatility"
+CTUM,2025-10-31,14.6,NEUTRAL,0.504,0.504,0.14,-2.4% to 2.6%,"Neutral RSI, 5d Mom: +0.7%, High Volatility"
+EABL,2025-10-31,231.75,NEUTRAL,0.515,0.515,0.53,-2.0% to 3.0%,"Overbought (Bearish), 5d Mom: +4.3%, Low Volatility"
+EQTY,2025-10-31,66.25,DOWN,0.386,0.614,-0.21,-2.7% to 2.3%,"Overbought (Bearish), 5d Mom: +11.3%, Low Volatility"
+KCB,2025-10-31,61.5,NEUTRAL,0.499,0.501,0.58,-1.9% to 3.1%,"Overbought (Bearish), 5d Mom: +5.6%, Low Volatility"
+KEGN,2025-10-31,10.25,UP,0.528,0.528,0.84,-1.7% to 3.3%,"Overbought (Bearish), 5d Mom: +2.7%, High Volatility"
+NCBA,2025-10-31,88.0,DOWN,0.447,0.553,-0.4,-2.9% to 2.1%,"Neutral RSI, 5d Mom: -3.3%, High Volatility"
+SCBK,2025-10-31,303.0,DOWN,0.377,0.623,-0.42,-2.9% to 2.1%,"Overbought (Bearish), 5d Mom: +2.7%, Low Volatility"
+SCOM,2025-10-31,30.25,NEUTRAL,0.504,0.504,0.62,-1.9% to 3.1%,"Overbought (Bearish), 5d Mom: +6.9%, Low Volatility"

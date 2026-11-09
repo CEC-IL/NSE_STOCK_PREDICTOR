@@ -1,0 +1,8 @@
+code,trades_executed,win_rate_pct,model_net_return_pct,buy_and_hold_return_pct,alpha_vs_hold_pct,max_drawdown_pct
+ABSA,4,75.0,1.96,80.76,-78.8,1.01
+BAT,2,50.0,0.15,-4.12,4.27,0.97
+COOP,4,50.0,5.13,62.82,-57.69,8.41
+EABL,3,100.0,15.25,30.44,-15.19,0.0
+EQTY,0,0.0,0.0,28.88,-28.88,0.0
+KCB,6,83.3,22.2,50.04,-27.84,5.65
+SCOM,3,66.7,10.39,13.44,-3.05,3.35

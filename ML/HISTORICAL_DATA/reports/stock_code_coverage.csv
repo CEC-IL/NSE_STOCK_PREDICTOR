@@ -1,0 +1,7 @@
+dataset,codes_present,codes_missing
+price_train,99,8
+price_validation,73,34
+price_test,78,29
+direction_train,99,8
+direction_validation,73,34
+direction_test,78,29

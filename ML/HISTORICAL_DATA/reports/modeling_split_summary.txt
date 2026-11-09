@@ -1,0 +1,23 @@
+NSE MODELING DATASET SPLIT REPORT
+=================================================================
+Total historical dates: 4,686
+Total original observations: 300,776
+Total stock codes: 107
+
+Training period: 2007-01-02 to 2020-03-02
+Validation period: after 2020-03-02 to 2022-12-23
+Testing period: after 2022-12-23 to 2025-10-31
+
+price_train.csv: 200,576 records
+price_validation.csv: 49,179 records
+price_test.csv: 50,639 records
+direction_train.csv: 200,445 records
+direction_validation.csv: 49,179 records
+direction_test.csv: 50,639 records
+
+Training feature dates: 2007-01-02 00:00:00 to 2020-02-28 00:00:00
+Validation feature dates: 2020-03-03 00:00:00 to 2022-12-22 00:00:00
+Testing feature dates: 2022-12-28 00:00:00 to 2025-10-30 00:00:00
+
+Missing feature values have been preserved.
+No random splitting or feature imputation was performed.

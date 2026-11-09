@@ -1,0 +1,10 @@
+dataset,class,records,percentage
+direction_train,UP,62514,31.19
+direction_train,DOWN,65147,32.5
+direction_train,UNCHANGED,72784,36.31
+direction_validation,UP,14193,28.86
+direction_validation,DOWN,15077,30.66
+direction_validation,UNCHANGED,19909,40.48
+direction_test,UP,16379,32.34
+direction_test,DOWN,15348,30.31
+direction_test,UNCHANGED,18912,37.35

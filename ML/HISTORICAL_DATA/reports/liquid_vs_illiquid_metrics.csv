@@ -1,0 +1,5 @@
+cohort,stocks_count,train_samples,val_samples,flatline_days_val_pct,baseline_direction_acc,xgboost_direction_acc,direction_gain_vs_baseline,xgboost_balanced_acc,xgboost_macro_f1,baseline_return_mae,xgboost_return_mae,mae_reduction
+Liquid Equities (62 stocks),62,143505,32639,9.77,58.26,59.43,1.17,52.62,0.4597,3.809,3.806,0.002
+Illiquid Equities (25 stocks),25,21227,4716,54.94,65.42,65.61,0.19,50.51,0.4104,3.63,3.737,-0.106
+Full Universe (87 stocks),87,164732,37355,15.47,59.17,60.07,0.9,52.1,0.4447,3.786,3.788,-0.002
+Cross: Liquid Model -> Illiquid Test,25,218191,4716,54.94,65.42,64.59,-0.83,53.85,0.5185,3.63,3.798,-0.168

@@ -1,0 +1,3 @@
+model,task,accuracy,balanced_accuracy,macro_f1,baseline_accuracy,accuracy_gain_vs_baseline,sample_size,mae,rmse,baseline_mae,mae_reduction_vs_baseline
+XGBoost Classifier (5-day Direction),5-day Direction,0.5648247177658943,0.5245231727573125,0.4963401640073055,0.5676767676767677,-0.0028520499108734,8415,,,,
+XGBoost Regressor (5-day Return),5-day Return %,,,,,,8415,2.8357457315955736,4.551349135742356,2.755909550550802,-0.07983618104477186
