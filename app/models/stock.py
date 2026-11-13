@@ -39,5 +39,5 @@ class DailyPrice(Base):
 
     #Database constraint so that a stock can only have one record per day
     __table_args__ = (
-        Index("idx_stock_date","symbol", "date", unique = True )
+        Index("idx_stock_date","symbol", "date", unique = True ),
     )
