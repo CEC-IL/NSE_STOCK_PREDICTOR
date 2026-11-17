@@ -60,7 +60,7 @@ def load_monthly_live_prices() -> pd.DataFrame:
     df.set_index("date", inplace=True)
     monthly = (
         df.groupby("ticker")
-        .resample("M")
+        .resample("ME")
         .last()
         .reset_index()
         .rename(columns={"date": "month_end", "close": "live_close"})
@@ -103,7 +103,7 @@ FEATURE_COLS = [
 # ---------------------------------------------------------------------------
 def generate_monthly_predictions():
     print("\n" + "=" * 70)
-    print("NSE MONTHLY (Jan‑Nov 2026) PREDICTION VS LIVE DATA")
+    print("NSE MONTHLY (Jan-Nov 2026) PREDICTION VS LIVE DATA")
     print("=" * 70 + "\n")
 
     # Load data
@@ -223,7 +223,7 @@ def generate_monthly_predictions():
     # Write a concise markdown summary
     summary_md = REPORT_DIR / "monthly_2026_prediction_analysis.md"
     with open(summary_md, "w") as f:
-        f.write("# Monthly (Jan‑Nov 2026) Prediction vs Live NSE Data\n\n")
+        f.write("# Monthly (Jan-Nov 2026) Prediction vs Live NSE Data\n\n")
         f.write(f"**Directional accuracy (ML):** {dir_acc:.1f}%  \n")
         f.write(f"**ARIMA 95 % cone coverage:** {cone_cov:.1f}%  \n\n")
         f.write("## Sample rows (first 10)\n\n")
