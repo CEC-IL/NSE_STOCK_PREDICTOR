@@ -51,8 +51,8 @@ class PredictionService:
         is_bullish = False
 
         #short term trend on the moving averages
-        if latest.sma_5d is not None and latest.sma_20 is not None:
-            if latest.sma_5d > latest.sma_20:
+        if latest.sma_5d is not None and latest.sma_20d is not None:
+            if latest.sma_5d > latest.sma_20d:
                 is_bullish = True
                 probability += 10.0
                 drivers.append(
@@ -60,8 +60,8 @@ class PredictionService:
                         feature_name = "Short-term Trend (SMA 5 vs SMA 20)",
                         impact = "bullish",
                         description = (
-                            f"5-day average (KES {latest.sma_5:.2f}) is above "
-                            f"20-day average (KES {latest.sma_20:.2f}), "
+                            f"5-day average (KES {latest.sma_5d:.2f}) is above "
+                            f"20-day average (KES {latest.sma_20d:.2f}), "
                             f"suggesting upward momentum."
                         )
                     )
@@ -73,8 +73,8 @@ class PredictionService:
                         feature_name = "Short-term Trend (SMA 5 vs SMA 20)",
                         impact = "bearish",
                         description = (
-                            f"5-day average (KES {latest.sma_5:.2f}) is below "
-                            f"20-day average (KES {latest.sma_20:.2f}), "
+                            f"5-day average (KES {latest.sma_5d:.2f}) is below "
+                            f"20-day average (KES {latest.sma_20d:.2f}), "
                             f"suggesting downward pressure."
                         )
                     )

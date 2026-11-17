@@ -14,14 +14,14 @@ class StockSummary(BaseModel):
 
     model_config = ConfigDict(from_attributes = True)
 
-class PriceHistoryItems(BaseModel):
+class PriceHistoryItem(BaseModel):
     # schema for a single historical day
 
     date: date
     price: float
     daily_return: Optional[float] = None
-    sma_5: Optional[float] = None
-    sma_20: Optional[float] = None
+    sma_5d: Optional[float] = None
+    sma_20d: Optional[float] = None
     volatility_20d: Optional[float] = None
 
     model_config = ConfigDict(from_attributes = True)
